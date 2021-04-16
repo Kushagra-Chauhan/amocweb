@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eternity</title>
+
+    <!-- Custom Style -->
+    <link rel="stylesheet" herf="./css/Style.css">
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-menu flex-row">
+            <div class="nav-brand">
+                <a herf="#" class="text-gray">Eternity</a>
+            </div>
+            <div>
+                <ul class="nav-items">
+                    <li class="nav-link">
+                        <a herf="#">Home</a>
+                    </li>
+                    <li class="nav-link">
+                        <a herf="#">Category</a>
+                    </li>
+                    <li class="nav-link">
+                        <a herf="#">Archieve</a>
+                    </li>
+                    <li class="nav-link">
+                        <a herf="#">Pages</a>
+                    </li>
+                    <li class="nav-link">
+                        <a herf="#">Contact-Us</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="social text-gray">
+                <a herf="#">F</a>
+                <a herf="#">I</a>
+                <a herf="#">T</a>
+                <a herf="#">Y</a>
+            </div>
+        </div>
+    </nav>
+    <!-- x-----Navigation-----X -->
+
+    <!-- Custom Java script file -->
+    <script src="./js/Main.js">
+    </script>
+</body>
+
+</html>
